@@ -1,0 +1,12 @@
+numpy
+pandas
+jupyter
+seaborn
+torch
+loguru
+plotly
+mads-datasets[torch]
+mltrainer
+black[jupyter]
+
+
