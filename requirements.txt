@@ -6,7 +6,8 @@ torch
 loguru
 plotly
 mads-datasets[torch]
-mltrainer
+mltrainer==0.1.10
 black[jupyter]
+torchsummary
 
 
